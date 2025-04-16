@@ -9,8 +9,14 @@
 
 ### Which projects work for which functions?
 
-The projects pinned to my profile are the ones I'm working on. If you want to use one of them but don't know which one, read this tip:
+The projects pinned to my profile are the ones I'm working on. If you want to use one of them but don't know which one, read this tip: If you want a specialized optimization for your processor, see:
 
-- If you want a specialized optimization for your processor, see perfd ​​opt (if your processor uses schedutil as its main) or Project Wipe Work (if your processor uses interactive as its main). If you don't find your processor in the compatibility list, use Atlas.
+- perfd-opt: if your processor uses schedutil as its main
+- Project Wipe Work; if your processor uses interactive as its main
+- Or Atlas if you don't find your processor in the compatibility list
 
-- If you want additional optimizations, see the projects QoL, Basic Cleaner and qti-mem-opt.
+If you want additional optimizations, see the projects:
+
+- QoL for tweaks of quality of life
+- Basic Cleaner for automatic 7-15-30 days
+- qti-mem-opt for better inteligent ram management for current androids
