@@ -11,9 +11,8 @@
 
 The projects pinned to my profile are the ones I'm working on. If you want to use one of them but don't know which one, read this tip: If you want a specialized optimization for your processor, see:
 
-- perfd-opt: if your processor uses schedutil as its main
-- Project Wipe Work: if your processor uses interactive as its main
-- Or Atlas if you don't find your processor in the compatibility list
+- perfd-opt: if your processor uses schedutil and has the EAS or CFS structure. But remember to check if your processor is compatible with the module
+- Atlas: if you don't find your processor in the compatibility list
 
 If you want additional optimizations, see the projects:
 
