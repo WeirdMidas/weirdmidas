@@ -18,5 +18,5 @@ The projects pinned to my profile are the ones I'm working on. If you want to us
 If you want additional optimizations, see the projects:
 
 - QoL for tweaks of quality of life
-- Basic Cleaner for automatic 7-15-30 days
+- Basic Cleaner for automatic cleaning im period of 7-15-30 days
 - qti-mem-opt for better inteligent ram management for current androids
