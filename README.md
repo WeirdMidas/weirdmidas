@@ -11,7 +11,7 @@
 
 The projects pinned to my profile are the ones I'm working on. If you want to use one of them but don't know which one, read this tip: If you want a specialized optimization for your processor, see:
 
-- perfd-opt: if your processor uses schedutil and has the EAS or CFS structure. But remember to check if your processor is compatible with the module (A version has not yet been released)
+- perfd-opt: if your processor uses schedutil and has the EAS or CFS structure. But remember to check if your processor is compatible with the module (It has already been released)
 - Atlas: if you don't find your processor in the compatibility list (A version has not yet been released)
 
 If you want additional optimizations, see the projects:
