@@ -7,15 +7,5 @@
 - 😄 Pronouns: he/him, I'm gay and I have a boyfriend
 - ⚡ Fun fact: I like Pokemon, I'm addicted to Pokemon Crystal Clear and the Minecraft Cubblemon mod and my favorite Pokemons are Meowscarada and Garchomp
 
-### Which projects work for which functions?
-
-The projects pinned to my profile are the ones I'm working on. If you want to use one of them but don't know which one, read this tip: If you want a specialized optimization for your processor, see:
-
-- perfd-opt: if your processor uses schedutil and has the EAS or CFS structure. But remember to check if your processor is compatible with the module (A version has not yet been released)
-- Atlas: if you don't find your processor in the compatibility list (A version has not yet been released)
-
-If you want additional optimizations, see the projects:
-
-- QoL for tweaks of quality of life (A version has not yet been released)
-- Basic Cleaner for cleaning your android device in a period of 7-15-30 days and is still customizable (It has already been released)
-- qti-mem-opt for better inteligent ram management for current androids (It has already been released)
+### My career on github
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdmidas)](https://github.com/anuraghazra/github-readme-stats)
