@@ -6,5 +6,6 @@
 - 👣 Where am I from? I'm Brazilian, I'm poor and I spend my time taking care of my boyfriend, and creating magisk modules to complement android features that I feel can be improved
 - 😄 Pronouns: he/him, I'm gay and I have a boyfriend
 - ⚡ Fun fact: I like Pokemon, I'm addicted to Pokemon Crystal Clear and the Minecraft Cubblemon mod and my favorite Pokemons are Meowscarada and Garchomp
+- 😓 I'm having personal problems, so many projects may take longer than expected to be updated or for me to respond to issues. I've accidentally dropped, deleted and redone some projects, but that's because of my problems where I wanted to at least try to improve something, but I ended up making things worse.
 ### My career on github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdmidas)](https://github.com/anuraghazra/github-readme-stats)
