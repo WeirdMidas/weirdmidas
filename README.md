@@ -11,4 +11,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdmidas)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Current Focused Project
-- [SkyScene](https://github.com/WeirdMidas/SkyScene-Addon), my beloved RAM management module for Android 12-15 devices. I've been working on it for a few weeks and even months now, and now I've finally gotten into the swing of things and focused on it. I've already released my first version, now all that's left is to polish it for Beta 2 and the next official releases.
+- [SkyScene](https://github.com/WeirdMidas/SkyScene-Addon), my beloved RAM management module for Android 12-15 devices. I've been working on it for a few weeks and even months now, and now I've finally gotten into the swing of things and focused on it. I've already released my first version, now all that's left is to polish it for Beta 2 and the next official releases
