@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Weird Midas, a strange "Midas"
-![1000006479](https://github.com/user-attachments/assets/05402561-a8eb-476f-82de-c81760e3b0dd)
 
-- 🔭 I’m currently learning how to: master memory management and how to improve the scheduler in terms of energy efficiency, both on Android
-- 🌱 I’m currently learning how to master android ram management and android schedule
+- 🔭 I’m currently working on Forks of old projects with the intention of making them better for current Android needs
+- 🌱 I’m currently learning how to master android ram management
 - 👽 Who am I? I'm a 1.80m tall colored cat of the "Puss in Boots" species, I have black and white eyes that look like precious stones... Hahaha, at least that's how I identify myself on the internet
 - 👣 Where am I from? I'm Brazilian, I'm poor and I spend my time taking care of my boyfriend, and creating magisk modules to complement android features that I feel can be improved
 - 😄 Pronouns: he/him, I'm gay and I have a boyfriend
