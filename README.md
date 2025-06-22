@@ -7,9 +7,11 @@
 - 😄 Pronouns: he/him, I'm gay and I have a boyfriend
 - ⚡ Fun fact: I like Pokemon, I'm addicted to Pokemon Crystal Clear and the Minecraft Cubblemon mod and my favorite Pokemons are Meowscarada and Garchomp
 - 😓 I'm having personal problems, so many projects may take longer than expected to be updated or for me to respond to issues. I've accidentally dropped, deleted and redone some projects, but that's because of my problems where I wanted to at least try to improve something, but I ended up making things worse.
+
 ### My career on github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdmidas)](https://github.com/anuraghazra/github-readme-stats)
 
-### Current Focused Project
+### My Projects! 😅
 - 🐦 [SkyScene](https://github.com/WeirdMidas/SkyScene-Addon), my beloved RAM management module for Android 8-15 devices. I've been working on it for a few weeks and even months now, and now I've finally gotten into the swing of things and focused on it. Its first version has already been released and other subsequent versions, meaning it is in constant evolution
 - 🐫 [Perfd-opt](https://github.com/WeirdMidas/perfd-opt), If you want your device with a Snapdragon processor (only) to have better energy efficiency, with its scheduler optimized to work less but with the same or higher performance than normal, including several energy profiles for various situations. Check out perfd-opt, the fork of another project by Matt Yang specialized for the current needs of Android devices. It also comes with the inclusion of a daemon that applies the profiles dynamically to each app that the user puts in a list (This project is still under construction and testing, there is no official version released yet)
+- 👽 [PRLMK Add-on](https://github.com/WeirdMidas/PRLMK-Addon), if you are interested in changing the dynamics of your LMKD to an implementation that resembles PRLMK (from this repository: ) on your device, feel free to visit.
