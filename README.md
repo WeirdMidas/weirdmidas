@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Weird Midas, a strange "Midas"
 
+My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many of my friends consider me self-taught because I just started my programming studies and I have great results.
+
+# 🫠 About me
+
 - 🔭 I’m currently working on Forks of old projects with the intention of making them better for current Android needs
 - 🌱 I’m currently learning how to master android ram management
 - 👽 Who am I? I'm a 1.80m tall colored cat of the "Puss in Boots" species, I have black and white eyes that look like precious stones... Hahaha, at least that's how I identify myself on the internet
