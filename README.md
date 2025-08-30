@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Weird Midas, a strange "Midas"
 
-My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many of my friends consider me self-taught because I just started my programming studies and I have great results.
+My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many friends and even my boyfriend consider me self-taught because of my ability to learn without anyone teaching me, which is how I learned to create modules like my **SkyScene** and **Perfd opt**.
 
 # 🫠 About me
 
