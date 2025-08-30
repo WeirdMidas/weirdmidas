@@ -5,7 +5,7 @@ My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many fr
 # 🫠 About me
 
 - 🔭 I’m currently working on Forks of old projects with the intention of making them better for current Android needs
-- 🌱 I'm currently trying to learn how to master Android's EAS/HMP memory management and evolution
+- 🌱 I am currently trying to learn to master the EAS/HMP scheduler and master the memory management of Android devices
 - 👽 Who am I? I'm a 1.80m tall colored cat of the "Puss in Boots" species, I have black and white eyes that look like precious stones... Hahaha, at least that's how I identify myself on the internet
 - 👣 Where am I from? I'm Brazilian, I'm poor and I spend my time taking care of my boyfriend, and creating magisk modules to complement android features that I feel can be improved
 - 😄 Pronouns: he/him, I'm gay and I have a boyfriend
