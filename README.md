@@ -17,4 +17,4 @@ My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many fr
 
 ### My main projects currently 🥱
 - 🐦 [SkyScene](https://github.com/WeirdMidas/SkyScene-Addon) - A memory management module that aims to be modern and extract the maximum from lowmem (4GB or less) and high perf (6GB or more) devices. Pushing the limits of multitasking and energy efficiency at the same time.
-- 🐣 [Perfd Opt](https://github.com/WeirdMidas/perfd-opt) - A CPU/GPU and EAS/HMP Scheduler module that seeks to extract the maximum from SOCs listed in compatibility in terms of efficiency, scheduling, and raw performance. Differentiating raw characteristics of processors such as those with big.LITTLE and DynamlQ architectures.
+- 🐣 [Uperf Aware](https://github.com/WeirdMidas/uperf) - A form of Uperf forked by Weird Midas focused entirely on scheduling efficiency, instead of being a simple userspace performance controller, it is a renewed way to integrate better and more dynamic EAS behavior into Android devices, pushing the boundaries between fluidity and energy savings one step further.
