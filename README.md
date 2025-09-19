@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Weird Midas, a strange "Midas"
 
-My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many friends and even my boyfriend consider me self-taught because of my ability to learn without anyone teaching me, which is how I learned to create modules like my **SkyScene**, **Atlas** and **UperfCapacity**.
+My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many friends and even my boyfriend consider me self-taught because of my ability to learn without anyone teaching me, which is how I learned to create modules like my **SkyScene**, **Atlas**, **ARTv3**, **Basic Cleaner** and **UperfCapacity**.
 
 # 🫠 About me
 
@@ -19,4 +19,4 @@ My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many fr
 - 🐦 [SkyScene](https://github.com/WeirdMidas/SkyScene-Addon) - A memory management module that aims to be modern and extract the maximum from lowmem (4GB or less) and high perf (6GB or more) devices. Pushing the limits of multitasking and energy efficiency at the same time.
 - 🐣 [Capacity-Userspace Superset Scheduler](https://github.com/WeirdMidas/UperfCapacity) - An evolution of the Uperf scheduler, this approach transcends the simplicity of performance control to focus on the essence of fluidity. With granular, user-space-focused control, this project is a new way to integrate dynamic and intelligent CASS (Capacity-Aware Superset Scheduler) behavior. Specializing in single- and multi-core performance, cache locality, and energy efficiency, CASS simplifies core selection based on demand and need, taking consistency and energy savings to a new level. Furthermore, this approach includes EAS details such as efficiency, a power model for energy-aware decision-making, and more.
 - 🌐 [Atlas](https://github.com/WeirdMidas/Atlas) - If you want to try a CPU, I/O, and GPU optimization module if you don't find compatibility in UperfCapacity, try Atlas! A modern version of Tytydraco's Ktweak that's more beneficial for Android Dynamic Workloads, it doesn't focus on absolute latency, but rather on an intelligent and respectful balance with user capabilities.
-
+- Check out my side projects, like [ARTv3](https://github.com/WeirdMidas/ARTv3), a Magisk/KSU module that leverages ART properties to significantly improve app execution and runtime performance on Android devices. Also, [Basic Cleaner](https://github.com/WeirdMidas/BasicCleaner), a Magisk/KSU module that automates cleaning Android devices over time and updates important runtime binaries to their latest version (like SQLite).
