@@ -1,6 +1,8 @@
-## Hi there 👋 I'm Weird Midas, a strange "Midas"
+## Hi there 👋 I'm Weird Midas, a strange "Midas" that doesn't turn anything into gold on the first touch
 
-My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many friends and even my boyfriend consider me self-taught because of my ability to learn without anyone teaching me, which is how I learned to create modules like my **SkyScene**, **LmkdOPT** **Basic Cleaner** and my mainline projects: **Perfd-opt** & **Uperf-Ish**. 🫠 About me
+My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many friends and even my boyfriend consider me self-taught because of my ability to learn without anyone teaching me, which is how I learned to create modules like my **SkyScene**, **LmkdOPT**, **Basic Cleaner** and my projects that I'm most focused on at the moment: **Perfd-opt** & **Uperf-Ish**
+
+### 🫠 About me
 
 - 🔭 I’m currently working on Forks of old projects with the intention of making them better for current Android needs
 - 🌱 I am currently learning about the EAS scheduler and its methods for selecting the best core for energy saving
