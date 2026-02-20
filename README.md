@@ -10,7 +10,6 @@ My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many fr
 - 👣 Where am I from? I'm Brazilian, I'm poor and I spend my time taking care of my boyfriend, and creating magisk modules to complement android features that I feel can be improved
 - 😄 Pronouns: he/him, I'm gay and I have a boyfriend
 - ⚡ Fun fact: I like Pokemon, I'm addicted to Pokemon Crystal Clear and the Minecraft Cubblemon mod and my favorite Pokemons are Meowscarada and Garchomp
-- 🥰 For those worried, I'm getting better. Even though my parents are in a mess because they're about to undergo a Venezuelan-style dictatorship, I'm also improving in other areas like mentality and health. I've finally managed to move forward with my projects, yeeeey
   
 ### My career on github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdmidas)](https://github.com/anuraghazra/github-readme-stats)
