@@ -1,18 +1,18 @@
 ## Hi there 👋 I'm Weird Midas, a strange "Midas" that doesn't turn anything into gold on the first touch
 
-My name is The Weird Midas and my real name is **Davi Arthur da Silva**, many friends and even my boyfriend consider me self-taught because of my ability to learn without anyone teaching me, which is how I learned to create modules like my **SkyScene Add-on** and **Basic Cleaner** and my projects that I'm most focused on at the moment: **Perfd-opt** & **LMK-Addon**.
+My name is Weird Midas and my real name is **Davi Arthur da Silva**, many friends and even my boyfriend consider me self-taught because of my ability to learn without anyone teaching me, which is how I learned to create modules like my **Basic Cleaner**, and my projects that I'm most focused on at the moment: **SkyScene Add-on** and **lmkd psi mod(ified)**
 
 ### 🫠 About me
 
-- 🔭 I’m currently working on Forks of old projects with the intention of making them better for current Android needs.
-- 🌱 I am currently learning about the EAS scheduler and its methods for selecting the best core for energy saving.
-- 👽 Who am I? I'm a 1.80m tall colored cat of the "Puss in Boots" species, I have black and white eyes that look like precious stones... Hahaha, at least that's how I identify myself on the internet.
-- 👣 Where am I from? I'm Brazilian, I'm poor and I spend my time taking care of my boyfriend, and creating magisk modules to complement android features that I feel can be improved.
-- 😄 Pronouns: he/him, I'm gay and I have a boyfriend.
-- ⚡ Fun fact: I like Pokemon, I'm addicted to Pokemon Crystal Clear and the Minecraft Cubblemon mod and my favorite Pokemons are Meowscarada and Garchomp.
+- 🔭 What I'm working on: I am currently working on optimization projects for various devices, such as memory management optimization and others
+- 🌱 What I am seeking to learn: I'm currently learning about daemons and how Android manages memory
+- 👽 Who am I: I'm just a 1.71 meter tall young man, 21 years old, and I'm Brazilian, nothing more, nothing less
+- 👣 Where am I from: I'm Brazilian, I am poor and spend most of my time with my boyfriend because of my loneliness
+- 😄 Pronouns: he/him
   
 ### My career on github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdmidas)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My main projects currently 🥱
-- 🐦 [SkyScene](https://github.com/WeirdMidas/SkyScene-Addon) - A memory management module that seeks to extract maximum efficiency from kernel management and some software input, allowing for improved behavior in swapping, compaction, reclaim, mlocked, writeback, and other aspects that affect memory (such as storage) for better multitasking, efficiency, and overall device performance.
+- 🐦 [SkyScene](https://github.com/WeirdMidas/SkyScene-Addon) - A memory and I/O management module for legacy and modern Android platforms
+- 🧭 [lmkd psi mod(fied](https://github.com/WeirdMidas/lmkdpsimod) - A module that modifies the lmkd psi to be more precise in managing memory and the respective needs of each device for decent multitasking
