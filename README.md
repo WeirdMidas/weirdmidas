@@ -7,7 +7,7 @@ My name is Weird Midas and my real name is **Davi Arthur da Silva**, many friend
 - 🔭 What I'm working on: I am currently working on optimization projects for various devices, such as memory management optimization and others
 - 🌱 What I am seeking to learn: I'm currently learning about daemons and how Android manages memory
 - 👽 Who am I: I'm just a 1.71 meter tall young man, 21 years old, and I'm Brazilian, nothing more, nothing less
-- 👣 Where am I from: I'm Brazilian, I am poor and spend most of my time with my boyfriend because of my loneliness
+- 👣 Where am I from: I'm Brazilian, I am poor and I spend most of my time optimizmultitaskincts
 - 😄 Pronouns: he/him
   
 ### My career on github
