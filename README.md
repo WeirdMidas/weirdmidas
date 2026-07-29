@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Weird Midas, a strange "Midas" that doesn't turn anything into gold on the first touch
 
-My name is Weird Midas and my real name is **Davi Arthur da Silva**, many friends consider me self-taught because of my ability to learn without anyone teaching me, which is how I learned to create modules like my **BasicCleanerr**, and my projects that I'm most focused on at the moment: **SkyScene Add-on** and **lmkd psi mod(ified)**
+My name is Weird Midas and my real name is **Davi Arthur da Silva**, many friends consider me self-taught because of my ability to learn without anyone teaching me, which is how I learned to create modules like my **BasicCleaner**, and my projects that I'm most focused on at the moment: **SkyScene Add-on** and **lmkd psi mod(ified)**
 
 ### 🫠 About me
 
